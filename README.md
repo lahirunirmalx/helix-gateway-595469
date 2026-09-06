@@ -1,2 +1,3 @@
 # helix-gateway-595469
-Experimental tooling
+
+Experimental module — not yet stable.
